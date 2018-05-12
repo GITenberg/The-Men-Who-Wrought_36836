@@ -1,0 +1,30 @@
+_repo: The-Men-Who-Wrought_36836
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cullum, Ridgwell
+    alias: Burghard, Sidney Groves
+    birthdate: 1867
+    deathdate: 1943
+    gutenberg_agent_id: '5545'
+    url: http://www.gutenberg.org/2009/agents/5545
+description: ''
+gutenberg_issued: '2011-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36836'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spy stories'
+- !lcsh 'Submarines (Ships) -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PR'
+- !lcsh 'Inventors -- Fiction'
+title: The Men Who Wrought
+url: http://www.gutenberg.org/ebooks/36836
